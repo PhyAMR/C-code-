@@ -1,0 +1,23 @@
+{"bearer":false,"name":"aragorn","race":"men","realm":"gondor"}
+{"bearer":false,"name":"arwen","race":"elves","realm":"rivendel"}
+{"bearer":true,"name":"bilbo baggins","race":"hobbits","realm":"the shire"}
+{"bearer":true,"name":"tom bombadil","race":"unknown","realm":"old forest"}
+{"bearer":true,"name":"isildur","race":"men","realm":"gondor"}
+{"bearer":true,"name":"gollum","race":"hobbits","realm":"the shire"}
+{"bearer":true,"name":"sauron","race":"maiar","realm":"mordor"}
+{"bearer":false,"name":"gandalf","race":"maiar","realm":"middle earth"}
+{"bearer":true,"name":"frodo bolson","race":"hobbits","realm":"the shire"}
+{"bearer":false,"name":"gimli","race":"dwarves","realm":"ered luin"}
+{"bearer":false,"name":"legolas","race":"elves","realm":"mirkwood"}
+{"bearer":false,"name":"saruman","race":"maiar","realm":"isengard"}
+{"bearer":false,"name":"galadriel","race":"elves","realm":"lothlorien"}
+{"bearer":false,"name":"theoden","race":"men","realm":"rohan"}
+{"bearer":false,"name":"peregrin tuk","race":"hobbits","realm":"the shire"}
+{"bearer":false,"name":"meriadoc brandybuck","race":"hobbits","realm":"the shire"}
+{"bearer":false,"name":"boromir","race":"men","realm":"gondor"}
+{"bearer":false,"name":"faramir","race":"men","realm":"gondor"}
+{"bearer":false,"name":"elrond","race":"elves","realm":"rivendel"}
+{"bearer":false,"name":"denethor","race":"men","realm":"gondor"}
+{"bearer":false,"name":"eomer","race":"men","realm":"rohan"}
+{"bearer":true,"name":"samwise gamgee","race":"hobbits","realm":"the shire"}
+{"bearer":false,"name":"eowyn","race":"men","realm":"rohan"}
